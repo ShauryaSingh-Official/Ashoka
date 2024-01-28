@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc0a328a.css",
+    "main.js": "/static/js/main.1a08004a.js",
+    "static/js/787.6c445183.chunk.js": "/static/js/787.6c445183.chunk.js",
+    "static/media/Main.jpg": "/static/media/Main.028366902c4f1b3fcfec.jpg",
+    "static/media/background.jpg": "/static/media/background.2dfe4c38ed20c35cecfa.jpg",
+    "static/media/ourstory.webp": "/static/media/ourstory.25f87022abb0fba40db1.webp",
+    "static/media/poojaessentials.jpg": "/static/media/poojaessentials.0dba63dee50f6535670d.jpg",
+    "static/media/contactBg.webp": "/static/media/contactBg.fa0732e22526f83f172c.webp",
+    "index.html": "/index.html",
+    "main.fc0a328a.css.map": "/static/css/main.fc0a328a.css.map",
+    "main.1a08004a.js.map": "/static/js/main.1a08004a.js.map",
+    "787.6c445183.chunk.js.map": "/static/js/787.6c445183.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc0a328a.css",
+    "static/js/main.1a08004a.js"
+  ]
+}

@@ -1,0 +1,16 @@
+{"products" : [
+    {"id" :1 ,"product_name" : "Little Kanha" , "description" : "acaeca", "category" : "Idol" , "metal": "Brass" , "weight" : 1.200 , "price" : 3242, "img":"product1" , "height":5 , "width" :3 , "company" : "Shauraya Pvt. Ltd."},
+    {"id" :2 ,"product_name" : "Ganesha" , "description" : "asha", "category" : "Idol" , "metal": "Brass" , "weight" : 0.400 , "price" : 322, "img":"product2" , "height":9 , "width" :7 , "company" : "Shauraya Pvt. Ltd."},
+    {"id" :3 ,"product_name" : "Laxmi" , "description" : "axmi", "category" : "Idol" , "metal": "Brass" , "weight" : 0.350 , "price" : 242, "img":"product3" , "height":5 , "width" :3 , "company" : "Shauraya Pvt. Ltd."},
+    {"id" :4 ,"product_name" : "Durga Maa" , "description" : "maa", "category" : "Idol" , "metal": "Brass" , "weight" : 0.555 , "price" : 342, "img":"product4" , "height":5 , "width" :1 , "company" : "Shauraya Pvt. Ltd."},
+    {"id" :5 ,"product_name" : "Kali mata" , "description" : "mata", "category" : "Idol" , "metal": "Brass" , "weight" : 0.444 , "price" : 4223, "img":"product5" , "height":5 , "width" :3 , "company" : "Shauraya Pvt. Ltd."},
+    {"id" :6 ,"product_name" : "Swastik Belt" , "description" : "", "category" : "Hanging & Decor" , "metal": "Brass" , "weight" : 0.777 , "price" : 1242, "img":"product6" , "height":5 , "width" :7, "company" : "Shauraya Pvt. Ltd."},
+    {"id" :7 ,"product_name" : "Door Kit" , "description" : "desc7", "category" : "Door & Security" , "metal": "Brass" , "weight" : 0.888 , "price" :1202, "img":"product7" , "height":5 , "width" :3 , "company" : "Shauraya Pvt. Ltd."},
+    {"id" :8 ,"product_name" : "Door Stopper" , "description" : "desc8", "category" : "Door & Security" , "metal": "Brass" , "weight" : 0.333 , "price" : 212, "img":"product8" , "height":5 , "width" :7 , "company" : "Shauraya Pvt. Ltd."},
+    {"id" :9 ,"product_name" : "Radha Rani" , "description" : "desc9", "category" : "Idol" , "metal": "Brass" , "weight" : 0.111 , "price" : 878, "img":"product9" , "height":5 , "width" :1 , "company" : "Shauraya Pvt. Ltd."},
+    {"id" :10 ,"product_name" : "Deep" , "description" : "desc10", "category" : "Deep & Diya" , "metal": "Brass" , "weight" : 0.222 , "price" : 972, "img":"product10" , "height":9 , "width" :3 , "company" : "Shauraya Pvt. Ltd."},
+    {"id" :11 ,"product_name" : "Nandi Pooja Bell " , "description" : "desc11", "category" : "Pooja Bells" , "metal": "Brass" , "weight" : 0.789 , "price" : 111, "img":"product11" , "height":7 , "width" :1 , "company" : "Shauraya Pvt. Ltd."},
+    {"id" :12 ,"product_name" : "Shiva" , "description" : "desc12", "category" : "Idol" , "metal": "Brass" , "weight" : 0.123 , "price" : 222, "img":"product12" , "height":5 , "width" :3 , "company" : "Shauraya Pvt. Ltd."},
+    {"id" :13 ,"product_name" : "Panchmukhi Hanuman" , "description" : "desc13", "category" : "Idol" , "metal": "Brass" , "weight" : 0.567 , "price" : 321, "img": "product13" , "height":7 , "width" :3 , "company" : "Shauraya Pvt. Ltd."}
+    ]
+  }

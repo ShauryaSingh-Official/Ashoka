@@ -1,0 +1,100 @@
+{
+    "builds": [
+        {
+            "src": "index.js",
+            "use": "@vercel/node"
+        },
+        {
+            "src": "build/**",
+            "use": "@vercel/static"
+        },
+        {
+            "src": "public/**",
+            "use": "@vercel/static"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/api/(.*)",
+            "dest": "index.js"
+        },
+        
+
+        
+        {
+            "src": "/Images/(.+)",            
+            "dest": "public/Images/$1"
+        },
+        
+        
+
+        {
+            "src": "/",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/about",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/contact",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/my_cart",
+            "dest": "build/index.html"
+        },
+        
+        {
+            "src": "/checkout",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/login",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/signup",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/orders",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/products",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/products/(.*)",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/terms_of_service",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/privacy_policy",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/shipping_policy",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/refund_policy",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/add_new_product",
+            "dest": "build/index.html"
+        },
+
+
+
+        {
+            "src": "/(.+)", 
+            "dest": "build/$1"
+        }
+    ]
+}
